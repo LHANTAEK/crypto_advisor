@@ -24,9 +24,12 @@ You'll need the following API keys to run the project.
    - After registration, you can obtain your API key from the dashboard
 
 **Create a `.env` file** in the project root directory and configure it with your API keys as follows.
+Environmental variables in Docker do not use upper("") and lower quotation marks(''). Please set it carefully.
+
 ```env
 OPENAI_API_KEY=your_openai_api_key
 TAVILY_API_KEY=your_tavily_api_key
+```
 
 ### **Method 1**: Quick Installation with Docker
 
