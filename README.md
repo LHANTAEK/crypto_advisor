@@ -27,10 +27,12 @@
    - 회원가입 후 대시보드에서 API 키를 발급받을 수 있습니다.
 
 발급받은 API 키는 프로젝트 루트 디렉토리에 `.env` 파일을 생성하여 다음과 같이 설정하세요.
+Docker에 들어가는 환경변수는 큰따옴표(""), 작은따옴표('')를 쓰지 않습니다. 주의해서 설정해주세요.
 
 ```env
 OPENAI_API_KEY=your_openai_api_key
 TAVILY_API_KEY=your_tavily_api_key
+```
 
 ### **방법 1**: Docker를 사용한 간편 설치
 
