@@ -1,7 +1,9 @@
 # Crypto Investment Advisor Bot
 [English](README_EN.md) | [한국어](README.md)
 
-이 프로젝트는 CrewAI와 chatGPT를 활용하여 암호화폐 시장의 트렌드를 분석하고 투자 인사이트를 제공하는 AI 챗봇 입니다.
+이 프로젝트는 CrewAI와 chatGPT API를 활용하여 암호화폐 시장의 트렌드를 분석하고 투자 인사이트를 제공하는 AI 챗봇 입니다.
+![image](https://github.com/user-attachments/assets/cca82c68-19f0-4143-b2b8-4dd84dd9532e)
+[서비스 링크](https://huggingface.co/spaces/HANTAEK/cryptocurrency_analyst_chatbot)
 
 ## 주요 기능
 
