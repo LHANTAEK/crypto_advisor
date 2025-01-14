@@ -2,6 +2,8 @@
 [English](README_EN.md) | [한국어](README.md)
 
 This project implements a chatbot application that analyzes cryptocurrency market trends and provides investment insights using CrewAI and chatGPT.
+![image](https://github.com/user-attachments/assets/f8a7ede8-9dbb-4793-b8b3-003812f5c1b2)
+[Service Link](https://huggingface.co/spaces/HANTAEK/cryptocurrency_analyst_chatbot)
 
 ## Core Features
 
