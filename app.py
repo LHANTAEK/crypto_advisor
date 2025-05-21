@@ -27,7 +27,7 @@ def run_crypto_crew(topic):
     tools=[search_tool],
     allow_delegation=False,
     llm=llm,
-    max_iter=3,
+    max_iter=10,
     max_rpm=10,
     )
 
